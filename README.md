@@ -1,11 +1,10 @@
 # blog
-person blog
 
-ButterKnife简介
+#  ButterKnife简介
 
-ButterKnife是通过注解的方式进行Android控制和方法的绑定，对于控件而言，无需通过findViewById来进行实例化，而是通过注解。对于一些回调方法，比如按钮的点击事件，无需通过绑定监听器，也可以通过注解的方式来完成。通过注解的方式对控制和回调方法进行绑定，可以有效的减少重复性的工作，简化代码，而将精力用于功能的实现。最新版本是8.4.0 ，以下内容都是都是基于8.4.0版本
-。ButterKnife Github主页：https：
-//github.com/JakeWharton/butterknife
+#3 ButterKnife是通过注解的方式进行Android控制和方法的绑定，对于控件而言，无需通过findViewById来进行实例化，而是通过注解。对于一些回调方法，比如按钮的点击事件，无需通过绑定监听器，也可以通过注解的方式来完成。通过注解的方式对控制和回调方法进行绑定，可以有效的减少重复性的工作，简化代码，而将精力用于功能的实现。最新版本是8.4.0 ，以下内容都是都是基于8.4.0版本
+。
+ButterKnife Github主页：https：//github.com/JakeWharton/butterknife
 
 在AndroidStudio中如何使用ButterKnife？
 
